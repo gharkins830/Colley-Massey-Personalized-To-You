@@ -18,6 +18,6 @@ This notebook contains an order dependent version of Colley’s method. If you w
 
 This notebook clue values wins, losses, and who those are against, while the Order Dependent Massey notebook is more concerned with point differential of results. This notebook does not allow you to add weights to games, though that can be done in a similar way to how it’s done in OrderDependentMassey.
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 If you also want to work with Elo systems, check out https://github.com/gharkins830/The-Elo-System---The-Best-K-for-you
