@@ -1,4 +1,4 @@
-My repo titled Weighted-Colley-Massey is identical, I just changed the name of the repo, and still wanted the link from my Thesis to function.
+My repo titled Weighted-Colley-Massey is identical, I just changed the name of the repo and still wanted the link from my Thesis to function.
 
 # Colley & Massey Personalized To You
 
